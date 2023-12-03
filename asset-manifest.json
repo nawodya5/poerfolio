@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poerfolio/static/css/main.9603ebfc.css",
+    "main.js": "/poerfolio/static/js/main.c3552233.js",
+    "index.html": "/poerfolio/index.html",
+    "main.9603ebfc.css.map": "/poerfolio/static/css/main.9603ebfc.css.map",
+    "main.c3552233.js.map": "/poerfolio/static/js/main.c3552233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9603ebfc.css",
+    "static/js/main.c3552233.js"
+  ]
+}
